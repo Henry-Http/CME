@@ -1,2 +1,3 @@
 # main header
-jumpi ng
+jumping is a necessity for moving
+git
